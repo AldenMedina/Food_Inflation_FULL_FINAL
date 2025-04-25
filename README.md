@@ -1,14 +1,14 @@
 
 ---
 
-## 🔗 Links
+## Links
 
 - 📈 [View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/FoodInflationAnalysis20202023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- 📂 [View Full Repo on GitHub](THIS_REPO_LINK)
+- [View Full Repo on GitHub](THIS_REPO_LINK)
 
 ---
 
-## 🚧 Limitations
+## Limitations
 
 - Some public datasets used may have time lags  
 - Does not include real-time tariff data or producer contracts  
@@ -16,20 +16,20 @@
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 - Integrate real-time pricing APIs  
 - Add retail scanner data for price comparisons  
 - Explore labor and climate-related cost drivers
 
-## 📌 Project Overview
+## Project Overview
 
 This repository accompanies a Tableau dashboard exploring the drivers behind U.S. food inflation from 2020 to 2023.  
 The project examines whether rising grocery prices were caused more by global supply disruptions (imports) or domestic economic factors (interest rates, retail markups).
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Python (for preprocessing)
 - Excel (data cleaning)
 - Tableau Public (data visualization)
@@ -37,7 +37,7 @@ The project examines whether rising grocery prices were caused more by global su
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 - **Imports stayed flat**, while grocery prices surged.
 - Categories like **processed and fresh foods** saw the highest retail markups.
 - **Interest rates and CPI** rose together — macroeconomic factors were tightly linked to food inflation.
@@ -45,19 +45,19 @@ The project examines whether rising grocery prices were caused more by global su
 
 ---
 
-## 🗂 Folder Structure
+## Folder Structure
 
 
 ---
 
-## 🧾 Data Source
+## Data Source
 
 Main source: U.S. Bureau of Economic Analysis (BEA), USDA, and World Bank open data.  
 Dashboard created as part of CareerFoundry's Data Analytics program.
 
 ---
 
-## 📅 Author
+## Author
 **Alden Medina** | April 2025  
 Built as final project for Achievement 6: Creating Data Dashboards
 
