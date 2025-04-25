@@ -1,3 +1,29 @@
+# Food Inflation Analysis 
+## (2020–2023)
+
+---
+
+## Project Overview
+
+This repository accompanies a Tableau dashboard exploring the drivers behind U.S. food inflation from 2020 to 2023.  
+The project examines whether rising grocery prices were caused more by global supply disruptions (imports) or domestic economic factors (interest rates, retail markups).
+
+---
+
+## Tools Used
+- Python (for preprocessing)
+- Excel (data cleaning)
+- Tableau Public (data visualization)
+- GitHub (project versioning and portfolio)
+
+---
+
+## Key Objectives
+- Identify major trends in food inflation between 2020–2023
+
+- Visualize and compare category-specific inflation rates
+
+- Highlight geographic or category-specific outliers and patterns
 
 ---
 
@@ -29,24 +55,11 @@ The project examines whether rising grocery prices were caused more by global su
 
 ---
 
-## Tools Used
-- Python (for preprocessing)
-- Excel (data cleaning)
-- Tableau Public (data visualization)
-- GitHub (project versioning and portfolio)
-
----
-
 ## Key Findings
 - **Imports stayed flat**, while grocery prices surged.
 - Categories like **processed and fresh foods** saw the highest retail markups.
 - **Interest rates and CPI** rose together — macroeconomic factors were tightly linked to food inflation.
 - **Fruits, vegetables, and meats** made up the majority of U.S. imports year after year, with little shift in mix.
-
----
-
-## Folder Structure
-
 
 ---
 
