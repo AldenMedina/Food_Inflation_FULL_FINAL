@@ -3,7 +3,7 @@
 
 ## Links
 
-- 📈 [View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/FoodInflationAnalysis20202023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/FoodInflationAnalysis20202023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [View Full Repo on GitHub](THIS_REPO_LINK)
 
 ---
